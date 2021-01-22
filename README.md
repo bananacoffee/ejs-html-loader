@@ -13,7 +13,7 @@ Install with [npm][npm]. Ensure [EJS][ejs] and [Webpack][webpack] are installed
 as well, as these are peer dependencies.
 
 ```sh
-npm install --save-dev webpack ejs ejs-html-loader
+npm install --save-dev webpack ejs bananacoffee/ejs-html-loader
 ```
 
 ## Usage
